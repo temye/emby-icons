@@ -1,10 +1,10 @@
 {
-name: "icon emby-service upload",
-description: "自用",
-icons: [
-{
-name: "qy",
-url: "https://github.com/temye/emby-icons/blob/main/qy.png"
-}
-]
+  "name": "icon emby-service upload",
+  "description": "自用",
+  "icons": [
+    {
+      "name": "qy",
+      "url": "https://raw.githubusercontent.com/temye/emby-icons/main/qy.png"
+    }
+  ]
 }
